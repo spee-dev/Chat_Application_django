@@ -92,13 +92,5 @@ else:
 
 The first and second approaches are covered in this application, look `session-based` branch for the third approach.
 
-### Resources
-1. [Django Tutorial - Corey Schafer](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 
-2. [Django Channels - RealPython](https://realpython.com/getting-started-with-django-channels/)
-3. [Django Channels](https://channels.readthedocs.io/)
-4. [Django Channels and WebSockets oversimplified - Dennis Ivy](https://www.youtube.com/watch?v=cw8-KFVXpTE)
-5. [Token Auth middleware ideas](https://gist.github.com/rluts/22e05ed8f53f97bdd02eafdf38f3d60a)
 
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
