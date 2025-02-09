@@ -8,7 +8,7 @@
     Hello from the other side
     <br />
     <br />
-    <a href="https://github.com/rustyxlol/Django-ChatApp/issues">Report Bug</a>
+   
   </p>
 </p>
 
